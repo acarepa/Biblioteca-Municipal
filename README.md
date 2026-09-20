@@ -4,7 +4,7 @@ Sistema de gestão de uma biblioteca, em linguagem Java, executado na consola. P
 
 Trabalho da disciplina de **Introdução a Algoritmos e Programação**, Engenharia Informática, UNISCED.
 
-**Autor:** [Ancha Waite Saide Carepa]
+**Autor:** Ancha Waite Saide Carepa Estudante do curso de Engenharia Informática 
 
 ## Funcionalidades
 
@@ -111,7 +111,3 @@ Um percurso típico:
 - O programa valida as entradas numéricas: se for escrito texto onde se espera um número, a pergunta é repetida.
 - Os textos do menu não têm acentos, para evitar problemas de codificação na consola.
 - Melhorias possíveis: gravar os dados em ficheiro e permitir editar e excluir utilizadores.
-
-## Documentação técnica
-
-A documentação técnica do trabalho (introdução, objectivos, referencial teórico, metodologia, desenvolvimento, conclusão e referências) é entregue em ficheiro Word separado.
