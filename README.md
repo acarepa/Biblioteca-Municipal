@@ -4,7 +4,7 @@ Sistema de gestão de uma biblioteca, em linguagem Java, executado na consola. P
 
 Trabalho da disciplina de **Introdução a Algoritmos e Programação**, Engenharia Informática, UNISCED.
 
-**Autor:** [Nome completo do estudante]
+**Autor:** [Ancha Waite Saide Carepa]
 
 ## Funcionalidades
 
